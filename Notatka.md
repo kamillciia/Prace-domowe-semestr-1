@@ -1,16 +1,17 @@
-Jak zacząć projekt?
+Notatka w MarkDown na GitHub opisująca wykonane ćwiczenia (środowisko pracy, linux - podstawowe polecenia, git, GitHub, gcc, pierwsze programy)
+
 Inicjowanie GITa w folderze lokalnym
 Instalacja GITa w systemie Linux
 
     Instalacji programu GIT dokonuje się poprzez polecenie w konsoli: sudo apt install git
 
-Tworzenie folderu
+Jak stworzyc Pierwszy folder
 
-    W terminalu przejdź do wybranej lokalizacji i wpisz polecenie mkdir repo1 a następnie cd repo1
+    W terminalu należy przejść do wybranej lokalizacji i wpisać polecenie mkdir repo1 a kolejnie cd repo1
 
-    Lista dostępnych komend dostępna jest pod poleceniem git help
+    Lista dostępnych komend  będzie pod poleceniem git help
 
-Pierwszy plik
+Jak stworzyc Pierwszy plik
 
     Aby utworzyć plik testowy w konsoli wpisz komendę touch test.txt lub > test.txt
 
